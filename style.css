@@ -1,0 +1,30 @@
+body {
+  background-color: papayawhip;
+  text-align: center;
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.header {
+  background-color: cadetblue;
+  font-size: 24px;
+  text-align: left;
+  padding: 15px;
+}
+
+.container {
+  background-color: sandybrown;
+  margin: auto;
+  width: 80%;
+}
+
+.mainImg {
+  width: 70%;
+}
+
+.footer {
+  background-color: springgreen;
+  bottom: 0;
+  text-align: center;
+  font-size: 18px;
+}
